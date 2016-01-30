@@ -48,7 +48,7 @@ function runTests {
 
 ## Main
 if [ "$#" -eq 0 ]; then
-  echo "  ./beautify.sh [FILE | MODULE]..."
+  echo "  ./beautify.sh [FILE|MODULE]..."
   ## Uncomment and list all of yours modules
   # echo "  Bunch Files:"
   # echo "    - auths"
